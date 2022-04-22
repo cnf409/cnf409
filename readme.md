@@ -1,4 +1,4 @@
 <p align="center">*\*]*!</p>
 <p align="center">
-  <a href="https://conflictchalls.alwaysdata.net/"><img src="https://media.discordapp.net/attachments/957684661042184342/963181501762125854/johndoe.jpg" alt="please dont click"></a>
+  <a href="https://conflictchalls.alwaysdata.net/"><img src="https://media.discordapp.net/attachments/958706348500078643/967156491750608966/johndoecypher.jpg" alt="please dont click"></a>
 </p>
