@@ -1,3 +1,3 @@
 <p align="center">
- <a href="https://m0ssad.github.io">foutre.</a>
+ <a href="https://e60v10.github.io">foutre.</a>
 </p>
