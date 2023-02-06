@@ -1,4 +1,4 @@
 <p align="center">
-  pentester wannabe, interested in cybersecurity, programming and web3 <br>
+  pentester wannabe, interested in cybersecurity, learning pwn and r.e <br>
   my blog: https://c0nfl1c7.github.io <br>
 </p>
